@@ -1,4 +1,5 @@
 Current Price : 1200
 Target Price : 1800+
 
-Status : HOLD
+Status : Sell
+Results : bad
